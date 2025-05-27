@@ -30,3 +30,4 @@ This project helps businesses understand which vendors or brands are performing 
 ## 📗 Output
 - Database: `vendor_sales_summary1` table
 - Visual insights (plots, charts)
+💀⚡NOTE:- There is 3 Excel file is missing if you wanna perform this project leave a message so i can send you
